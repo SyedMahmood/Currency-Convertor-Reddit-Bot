@@ -1,6 +1,6 @@
 # Currency-Convertor-Reddit-bot-
 
-This is a bot for the popular website reddit.com developed using Python.
+This is a bot for the popular website reddit.com developed using Python (with the urllib2 module).
 
 The praw python package was used which allows access to the Reddit API. 
 
